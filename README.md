@@ -38,6 +38,16 @@ After cloning, or extracting ZIP file, Go inside Project's folder ==> Pages fold
 
 Right-click on loginPage.html and select run with chrome browser.
 
+🔐 Login Credentials
+Only the following email/password pairs are valid:
+
+Email	Password
+hello@test.com	  test
+john.doe@test.com	hello
+john.doe@test.com	john
+
+Any other combination will show an error.
+
 ### Below is the Demo video of the assignment
 
 https://github.com/user-attachments/assets/807d2f3b-3b26-4aba-ad0c-6a0f3f2362fe
