@@ -36,9 +36,12 @@ Now the application will be ruuning in the browser
 
 After cloning, or extracting ZIP file, Go inside Project's folder ==> Pages folder ==> Login folder ==>
 
+Right-click on loginPage.html and select run with chrome browser.
+
+### Below is the Demo video of the assignment
+
 https://github.com/user-attachments/assets/807d2f3b-3b26-4aba-ad0c-6a0f3f2362fe
 
- Right-click on loginPage.html and select run with chrome browser.
 
 
 
