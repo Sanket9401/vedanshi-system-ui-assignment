@@ -6,6 +6,8 @@ Follow these instructions to pull the code and run the project locally.
 
 ### 📥 Step 1: Clone the Repository
 
+Install Nodejs (if not installed), [Click here](https://nodejs.org/en/download)
+
 Open Command prompt and run below commands ( install git if not installed by using ```npm install git``` command
 
 ```bash
@@ -32,7 +34,11 @@ Now the application will be ruuning in the browser
 
 ### Alternate Method :
 
-After cloning, or extracting ZIP file, Go inside Project's folder ==> Pages folder ==> Login folder ==> Right-click on loginPage.html and select run with chrome browser.
+After cloning, or extracting ZIP file, Go inside Project's folder ==> Pages folder ==> Login folder ==>
+
+https://github.com/user-attachments/assets/807d2f3b-3b26-4aba-ad0c-6a0f3f2362fe
+
+ Right-click on loginPage.html and select run with chrome browser.
 
 
 
