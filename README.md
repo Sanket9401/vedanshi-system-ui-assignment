@@ -42,8 +42,8 @@ Right-click on loginPage.html and select run with chrome browser.
 Only the following email/password pairs are valid:
 
 Email	Password
-hello@test.com	  test
-john.doe@test.com	hello
+hello@test.com	  test, 
+john.doe@test.com	hello, 
 john.doe@test.com	john
 
 Any other combination will show an error.
