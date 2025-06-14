@@ -8,7 +8,8 @@ Follow these instructions to pull the code and run the project locally.
 
 Install Nodejs (if not installed), [Click here](https://nodejs.org/en/download)
 
-Open Command prompt and run below commands ( install git if not installed by using ```npm install git``` command
+Open Command prompt and run below commands   
+(install git if not installed, **[Git](https://git-scm.com/downloads)**)
 
 ```bash
 git clone https://github.com/Sanket9401/vedanshi-system-ui-assignment.git
